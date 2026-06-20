@@ -1,8 +1,8 @@
 import Login from "../../components/Login";
 
 export const metadata = {
-  title: "Login | Reqpilot AI",
-  description: "Sign in to your Reqpilot AI workspace.",
+  title: "Login | Split",
+  description: "Sign in to your Split AI workspace.",
 };
 
 export default function LoginPage() {
